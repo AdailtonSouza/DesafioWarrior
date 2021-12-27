@@ -53,6 +53,8 @@ ZN: null
 O Azure function, Nginx e Keyclock serão instalados pela pipeline de CI/CD e serão orquestrados pelo Cluster Kubernet.
 Obs.: as informações de usuário (id e nome) serão fornecidas pelo Keycloack
 
+![This is an image](https://drive.google.com/file/d/1eDCKxRujgAKqHM7jVEJJ0ufg69yASz6B/view?usp=sharing)
+
 ## Desenho micro da solução 
 ### Recursos técnicos 
 #### Frameworks 
